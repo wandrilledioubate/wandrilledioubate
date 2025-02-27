@@ -15,7 +15,6 @@
 
 <br>
 
-- A passionate Data Scientist Student
 - Student @ Efrei Paris
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/wandrilledioubate)
 
@@ -36,6 +35,13 @@
 
 
 <br>   
+
+- **Data Engineering**:
+
+    ![dbt](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    ![airflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<br>
     
 - **Front-End Development**:
 
@@ -58,12 +64,17 @@
 
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+
     
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+    ![Koyeb](https://img.shields.io/badge/Koyeb-212121?style=flat&logo=Koyeb&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -125,12 +136,6 @@
 </li>
 
 <br>
-
-<li>
-<a href="mailto:wandrille.dioubate@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  wandrille.dioubate-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
